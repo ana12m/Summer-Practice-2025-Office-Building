@@ -52,5 +52,5 @@ Această funcționalitate ajută la urmărirea centralizată a prezenței și po
 
 ## **Practica de vară – 2025**  
 **Facultatea de Automatică, Calculatoare și Electronică – Universitatea din Craiova**  
-**Student:** Arbaselu Mario Ionuț  
+**Student:** Faluta Ana-Maria, Diaconu Greti Stefania 
 **Profesor coordonator:** Hurezeanu Bogdan
