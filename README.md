@@ -23,17 +23,17 @@ Am creat o aplicație web în **Python** folosind **Flask**, care rulează local
 
 ---
 
-🔁 Pauza de masă poate fi înregistrată doar în intervalul **12:00–12:30**  
-🔒 Sistemul nu permite **check-out** fără **check-in** anterior  
-📁 Toate datele sunt salvate în fișierul **`data.json`**
+ Pauza de masă poate fi înregistrată doar în intervalul **12:00–12:30**  
+ Sistemul nu permite **check-out** fără **check-in** anterior  
+ Toate datele sunt salvate în fișierul **`data.json`**
 
 ---
 
 ## **Feedback vizual (în interfață)**
 
-- ✅ **Tranzacție validă** – mesaj de succes  
-- ❌ **PIN greșit / Cod QR invalid** – mesaj de eroare  
-- ⚠️ **Check-out fără check-in** – avertizare  
+-  **Tranzacție validă** – mesaj de succes  
+-  **PIN greșit / Cod QR invalid** – mesaj de eroare  
+-  **Check-out fără check-in** – avertizare  
 
 ---
 
