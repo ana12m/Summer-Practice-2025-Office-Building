@@ -1,0 +1,9 @@
+import qrcode
+
+# Coduri QR pentru fiecare angajat
+qr_codes = ['emp1', 'emp2', 'emp3', 'emp4', 'emp5', 'emp6']
+
+for code in qr_codes:
+    img = qrcode.make(code)
+    img.save(f"{code}.png")
+    print(f"QR pentru {code} salvat.")

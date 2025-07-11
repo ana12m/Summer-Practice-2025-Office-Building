@@ -1,0 +1,222 @@
+{
+  "2025-07-11": {
+    "emp1": {
+      "nume": "Mihai Popa",
+      "check_in": "2025-07-11 08:56:00",
+      "check_out": "2025-07-11 17:01:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp2": {
+      "nume": "Maria Ionescu",
+      "check_in": "2025-07-11 08:56:31",
+      "check_out": "2025-07-11 17:02:45",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp3": {
+      "nume": "Ion Popescu",
+      "check_in": "2025-07-11 08:56:45",
+      "check_out": "2025-07-11 17:00:00",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp4": {
+      "nume": "Ana Georgescu",
+      "check_in": "2025-07-11 08:57:04",
+      "check_out": "2025-07-11 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp5": {
+      "nume": "Bogdan Marinescu",
+      "check_in": "2025-07-11 08:57:23",
+      "check_out": "2025-07-11 17:01:05",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp6": {
+      "nume": "Claudia Radu",
+      "check_in": "2025-07-11 09:02:03",
+      "check_out": "2025-07-11 17:08:11",
+      "pauza_masa": true,
+      "de_acasa": false
+    }
+  },
+  "2025-07-10": {
+    "emp1": {
+      "nume": "Mihai Popa",
+      "check_in": "2025-07-10 08:50:00",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp2": {
+      "nume": "Maria Ionescu",
+      "check_in": "2025-07-10 08:51:01",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp3": {
+      "nume": "Ion Popescu",
+      "check_in": "2025-07-10 08:57:45",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp4": {
+      "nume": "Ana Georgescu",
+      "check_in": "2025-07-10 08:57:00",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp5": {
+      "nume": "Bogdan Marinescu",
+      "check_in": "2025-07-10 08:55:20",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp6": {
+      "nume": "Claudia Radu",
+      "check_in": "2025-07-10 08:58:03",
+      "check_out": "2025-07-10 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": false
+    }
+  },
+  "2025-07-09": {
+    "emp1": {
+      "nume": "Mihai Popa",
+      "check_in": "2025-07-09 08:49:40",
+      "check_out": "2025-07-09 17:03:25",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp2": {
+      "nume": "Maria Ionescu",
+      "check_in": "2025-07-09 08:51:10",
+      "check_out": "2025-07-09 17:02:50",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp3": {
+      "nume": "Ion Popescu",
+      "check_in": "2025-07-09 08:56:00",
+      "check_out": "2025-07-09 17:04:15",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp4": {
+      "nume": "Ana Georgescu",
+      "check_in": "2025-07-09 08:54:20",
+      "check_out": "2025-07-09 17:01:55",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp5": {
+      "nume": "Bogdan Marinescu",
+      "check_in": "2025-07-09 08:53:33",
+      "check_out": "2025-07-09 17:00:45",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp6": {
+      "nume": "Claudia Radu",
+      "check_in": "2025-07-09 08:58:05",
+      "check_out": "2025-07-09 17:06:20",
+      "pauza_masa": true,
+      "de_acasa": false
+    }
+  },
+  "2025-07-08": {
+    "emp1": {
+      "nume": "Mihai Popa",
+      "check_in": "2025-07-08 08:47:58",
+      "check_out": "2025-07-08 17:06:15",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp2": {
+      "nume": "Maria Ionescu",
+      "check_in": "2025-07-08 08:49:22",
+      "check_out": "2025-07-08 17:04:00",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp3": {
+      "nume": "Ion Popescu",
+      "check_in": "2025-07-08 08:54:45",
+      "check_out": "2025-07-08 17:02:30",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp4": {
+      "nume": "Ana Georgescu",
+      "check_in": "2025-07-08 08:52:12",
+      "check_out": "2025-07-08 17:01:40",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp5": {
+      "nume": "Bogdan Marinescu",
+      "check_in": "2025-07-08 08:51:30",
+      "check_out": "2025-07-08 17:00:15",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp6": {
+      "nume": "Claudia Radu",
+      "check_in": "2025-07-08 08:57:45",
+      "check_out": "2025-07-08 17:08:00",
+      "pauza_masa": true,
+      "de_acasa": false
+    }
+  },
+  "2025-07-07": {
+    "emp1": {
+      "nume": "Mihai Popa",
+      "check_in": "2025-07-07 08:48:22",
+      "check_out": "2025-07-07 17:05:10",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp2": {
+      "nume": "Maria Ionescu",
+      "check_in": "2025-07-07 08:50:05",
+      "check_out": "2025-07-07 17:00:30",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp3": {
+      "nume": "Ion Popescu",
+      "check_in": "2025-07-07 08:55:40",
+      "check_out": "2025-07-07 17:03:55",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp4": {
+      "nume": "Ana Georgescu",
+      "check_in": "2025-07-07 08:53:17",
+      "check_out": "2025-07-07 17:02:20",
+      "pauza_masa": true,
+      "de_acasa": false
+    },
+    "emp5": {
+      "nume": "Bogdan Marinescu",
+      "check_in": "2025-07-07 08:52:33",
+      "check_out": "2025-07-07 17:01:50",
+      "pauza_masa": true,
+      "de_acasa": true
+    },
+    "emp6": {
+      "nume": "Claudia Radu",
+      "check_in": "2025-07-07 08:59:15",
+      "check_out": "2025-07-07 17:08:25",
+      "pauza_masa": true,
+      "de_acasa": false
+    }
+  }
+}
